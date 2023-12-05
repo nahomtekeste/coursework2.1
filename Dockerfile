@@ -1,6 +1,6 @@
  
 
-FROM node:6.14.2 
+FROM node:latest 
 
 EXPOSE 8080 
 
